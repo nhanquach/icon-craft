@@ -1,0 +1,6 @@
+{
+  "name": "IconCraft",
+  "description": "Ultra-lightweight zero-dependency SVG sprite compiler and type-safe icon management engine for React, Vite, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
